@@ -24,12 +24,11 @@ Luxe-Aesthetic-Clinic-Portal/
 │   └── animations.css  # Scroll reveals, transitions, hover effects
 ├── js/
 │   ├── main.js         # Navigation, scroll, mobile menu, parallax
-│   └── booking.js      # Multi-step booking stepper
-├── assets/
-│   ├── images/         # Hero and treatment photography
-│   └── icons/          # Material Symbols (loaded via Google Fonts CDN)
+│   └── booking.js      # Multi-step booking stepper (frontend only)
 └── README.md
 ```
+
+No local assets are stored in this repository — photography loads from Unsplash's CDN and Material Symbols icons load from the Google Fonts CDN.
 
 ## Features
 
